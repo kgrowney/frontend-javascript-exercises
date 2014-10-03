@@ -22,3 +22,5 @@ module.exports.substringBetweenMatches = function(text, searchString) {
   //return the text between the end of the first occurence and beginning of the second occurence
   return(text.substring(firstMatch, secondMatch));
 };
+
+//Are my commits working 
