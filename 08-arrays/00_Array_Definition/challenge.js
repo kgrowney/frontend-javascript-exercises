@@ -1,5 +1,5 @@
 module.exports.newArray = function(first, second, third, fourth) {
-  // should return new array 
+  // should return new array.
   newArray = [first, second, third, fourth];
   return newArray;
 }
